@@ -1,0 +1,8 @@
+{
+  "name": "finox",
+  "description": "Short-form vertical video platform with creator studio, subscription tiers, monetization, and real-time engagement analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
